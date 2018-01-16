@@ -1,1 +1,1 @@
-This repository contains SAPUI5 projects based on openSAP course.
+This repository contains SAPUI5 projects based on openSAP course
